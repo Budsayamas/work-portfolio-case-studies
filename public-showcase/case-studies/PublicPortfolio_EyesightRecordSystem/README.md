@@ -63,6 +63,6 @@ flowchart LR
 
 This project demonstrates practical desktop application development for an operational workflow: form design, validation, database access, reporting, and Excel generation. The public version is intentionally documentation-focused to protect confidential company systems.
 
-## Suggested Resume Bullet
+## Suggested
 
 Developed a C#/.NET 8 Windows Forms application for employee eyesight screening records, including SQL Server integration, form validation, monthly reporting, and Excel export automation with ClosedXML.
